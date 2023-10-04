@@ -1,6 +1,6 @@
 # NM_Vector-Field_CosmoEval
 
-#### The project intends to include various Mathematica/Python nb files to studey the cosmological evolution of non-minimally coupled spectator spin-1 fields:
+#### The project intends to include various Mathematica/Python nb files to study the cosmological evolution of non-minimally coupled spectator spin-1 fields:
  ```math
  S_{\rm GF}= \int {\rm d}^4 x {\sqrt{-g}}\bigg[ -{\frac{1}{4}F^{\mu\nu}F_{\mu\nu}-\frac{1}{2}m^2 A_{\mu}A^{\mu}} + \frac{\alpha^2}{6}G_{\mu\nu} A^{\mu} A^{\nu} \bigg],
 ```
